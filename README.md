@@ -23,7 +23,13 @@ root 에 노트북을 작성합니다.
 - sample
   - aircon.wav
   - carhorn.wav
-  - ...
+  - dogbark.wav
+  - drill.wav
+  - engine.wav
+  - gunshots.wav
+  - jackhammer.wav
+  - music.wav
+  - play.wav
   - siren.wav
 
 <https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html> 에서 UrbanSound8K를 다운로드 받아 download 폴더에 압축해제 하였습니다.
