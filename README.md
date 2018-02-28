@@ -4,7 +4,7 @@
 
 ## 폴더 구조
 
-- Root 에 노트북을 작성합니다. 
+root 에 노트북을 작성합니다. 
 
 - data
 - download
@@ -19,6 +19,8 @@
   - carhorn.wav
   - ...
   - siren.wav
+
+<https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html> 에서 UrbanSound8K를 다운로드 받아 download 폴더에 압축해제 하였습니다.
 
 audio 폴더에서 하나씩 골라 sample 폴더에 넣었습니다. 
 
