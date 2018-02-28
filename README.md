@@ -12,7 +12,13 @@ root 에 노트북을 작성합니다.
     - audio
       - fold1
       - fold2
-      - ...
+      - fold3
+      - fold4
+      - fold5
+      - fold6
+      - fold7
+      - fold8
+      - fold9
       - fold10
 - sample
   - aircon.wav
@@ -23,4 +29,5 @@ root 에 노트북을 작성합니다.
 <https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html> 에서 UrbanSound8K를 다운로드 받아 download 폴더에 압축해제 하였습니다.
 
 audio 폴더에서 하나씩 골라 sample 폴더에 넣었습니다. 
+
 
